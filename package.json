@@ -1,0 +1,15 @@
+{
+  "name": "webnodemongodb",
+  "version": "1.0.0",
+  "description": "My scr deeee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "debyendu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
